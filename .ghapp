@@ -1,0 +1,10 @@
+{
+  "id": 181111952,
+  "created_at": "2026-11-12T03:49:23.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["omarfaruqe.r-universe.dev"]
+}
